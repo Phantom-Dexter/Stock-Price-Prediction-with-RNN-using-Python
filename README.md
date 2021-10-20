@@ -5,9 +5,10 @@ This project utilizes RNN in making price predictions over a period of time, bas
 Language: Python
 
 
-Libraries needed:
+Libraries needed to install:
 - pandas
 - keras
 - numpy
+- matplotlib
 
 Kindly hit me up if you get any challenges with it
