@@ -3,6 +3,8 @@ This project utilizes RNN in making price predictions over a period of time, bas
 
 
 Language: Python
+
+
 Libraries needed:
 - pandas
 - keras
