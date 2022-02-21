@@ -10,5 +10,3 @@ Libraries needed to install:
 - keras
 - numpy
 - matplotlib
-
-Kindly hit me up if you get any challenges with it
