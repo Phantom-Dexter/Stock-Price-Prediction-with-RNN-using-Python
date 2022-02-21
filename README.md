@@ -10,3 +10,7 @@ Libraries needed to install:
 - keras
 - numpy
 - matplotlib
+
+Actions to be taken:
+1. Provide the file path of the .csv file
+2. Provid the column you want to apply the prediction on.
